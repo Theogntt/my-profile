@@ -1,0 +1,45 @@
+/* Colors and fonts */ 
+
+body {
+	background: rgb(231, 231, 231);
+	color: rgb(81, 81, 81);
+	font-family: Helvetica;
+	font-size: 17px;
+}
+
+div{
+	background: 
+
+}
+
+/*cutom design with class */
+.container{
+	width: 700px;
+	margin: 40px auto;
+}
+
+.card-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1)
+	border-radius: 4px;
+	margin: 20px; 
+	text-align: center;
+}
+
+.img-circle{
+	border-radius: 50%;
+	width: 100px;
+}
+
+.btn-blue{
+	background-color: #6B72E1;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+
+.btn-blue: hover {
+	background-color: black;
+	color: white;
+}
